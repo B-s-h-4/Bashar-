@@ -1,0 +1,75 @@
+[
+  {
+    "arguments": "",
+    "scriptPath": "Examples/Keyboard/Insert Date.py",
+    "iconName": "Primaries_Calendar",
+    "iconColor": "c04242"
+  },
+  {
+    "arguments": "",
+    "scriptPath": "Examples/Keyboard/Special Characters.py",
+    "title": "Special Chars",
+    "iconName": "Primaries_LoopedSquare",
+    "iconColor": "c08142"
+  },
+  {
+    "arguments": "",
+    "scriptPath": "Examples/Keyboard/Text Effects.py",
+    "iconName": "Primaries_MagicWand",
+    "iconColor": "c0c042"
+  },
+  {
+    "arguments": "",
+    "scriptPath": "Examples/Keyboard/Emoji Paint.py",
+    "iconName": "Primaries_Emoji",
+    "iconColor": "81c042"
+  },
+  {
+    "arguments": "",
+    "scriptPath": "Examples/Keyboard/Emoji Search.py",
+    "iconName": "Primaries_Search",
+    "iconColor": "42c042"
+  },
+  {
+    "arguments": "",
+    "scriptPath": "Examples/Keyboard/Placeholders.py",
+    "iconName": "Primaries_AlignLeft",
+    "iconColor": "42c081"
+  },
+  {
+    "arguments": "",
+    "scriptPath": "Examples/Keyboard/QR Code.py",
+    "iconName": "Primaries_QRCode",
+    "iconColor": "42c0c0"
+  },
+  {
+    "arguments": "",
+    "scriptPath": "Examples/Keyboard/Calculate.py",
+    "iconName": "Primaries_Calculator",
+    "iconColor": "4281c0"
+  },
+  {
+    "arguments": "",
+    "scriptPath": "Examples/Keyboard/REPL.py",
+    "iconName": "Primaries_ChevronRight",
+    "iconColor": "4242c0"
+  },
+  {
+    "arguments": "",
+    "scriptPath": "Examples/Keyboard/Colors.py",
+    "iconName": "Primaries_ColorPalette",
+    "iconColor": "8142c0"
+  },
+  {
+    "arguments": "",
+    "scriptPath": "Examples/Keyboard/Snippets.py",
+    "iconName": "Primaries_Flash",
+    "iconColor": "c042c0"
+  },
+  {
+    "arguments": "",
+    "scriptPath": "Examples/Keyboard/KB Info.py",
+    "iconName": "Primaries_Info",
+    "iconColor": "c04281"
+  }
+]
